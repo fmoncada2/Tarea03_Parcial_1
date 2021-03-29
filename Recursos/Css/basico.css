@@ -1,0 +1,37 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#lateral {
+    width: 10%;
+    height: 690px;
+}
+
+#Info {
+    justify-content: center;
+}
+
+#contenido article div {
+    padding: 10px;
+}
+
+#banner h2 {
+    text-shadow: 5px 3px 5px gray;
+    text-align: center;
+}
+
+#accordionExample {
+    width: 30%;
+}
+
+#piePag {
+    margin-top: 3.8%;
+    width: 100%;
+    height: min-content;
+}
+
+#piePag ul li {
+    list-style: none;
+    padding-left: 200px;
+}
